@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋, I'm Arjun
 
-<!--
-**arjuna-b/arjuna-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android Developer with 4.5 years of experience.
 
-Here are some ideas to get you started:
+## Connect with me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/your-linkedin](http://www.linkedin.com/in/arjuna-babu-batchu-37a53b226">
+  <img src="https://cdn.simpleicons.org/linkedin" width="30"/>
+</a>
+
+
+## Tech Stack
+
+- Kotlin
+- Jetpack Compose
+- MVVM
+- Hilt
+- Room
+- Retrofit
+- Coroutines
+- Flow

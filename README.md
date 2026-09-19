@@ -1,14 +1,14 @@
 <div align="center">
 
-# 👋 Hi, I'm **[YOUR NAME]**
+# 👋 Hi, I'm **Arjuna Babu Batchu**
 
 ### 📱 Android Developer · Kotlin · Jetpack Compose · Clean Architecture · On-Device AI
 
 <p>
-  <a href="[YOUR LINKEDIN URL]">
+  <a href="https://www.linkedin.com/in/arjuna-babu-batchu-37a53b226">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:[YOUR EMAIL]">
+  <a href="mailto:arjuna.batchu@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/arjuna-b">

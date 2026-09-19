@@ -82,12 +82,17 @@ A modern Android news application built with **Kotlin and Jetpack Compose**, fol
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Technical Skills
+
+### 💻 Languages
+
+<p>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
+</p>
 
 ### 📱 Android Development
 
 <p>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
 <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android SDK"/>
 <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
 <img src="https://img.shields.io/badge/ViewModel-3DDC84?style=flat-square&logo=android&logoColor=white" alt="ViewModel"/>
@@ -95,64 +100,76 @@ A modern Android news application built with **Kotlin and Jetpack Compose**, fol
 <img src="https://img.shields.io/badge/Hilt-4285F4?style=flat-square&logo=google&logoColor=white" alt="Hilt"/>
 <img src="https://img.shields.io/badge/Room-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Room"/>
 <img src="https://img.shields.io/badge/DataStore-3DDC84?style=flat-square&logo=android&logoColor=white" alt="DataStore"/>
-<img src="https://img.shields.io/badge/WorkManager-3DDC84?style=flat-square&logo=android&logoColor=white" alt="WorkManager"/>
 </p>
 
-### 🏗️ Architecture & Design
+### 🏗️ Architecture
 
 <p>
 <img src="https://img.shields.io/badge/MVVM-Architecture-6C63FF?style=flat-square" alt="MVVM"/>
-<img src="https://img.shields.io/badge/Clean_Architecture-Architecture-6C63FF?style=flat-square" alt="Clean Architecture"/>
-<img src="https://img.shields.io/badge/Repository_Pattern-Architecture-6C63FF?style=flat-square" alt="Repository Pattern"/>
-<img src="https://img.shields.io/badge/Modular_Architecture-Architecture-6C63FF?style=flat-square" alt="Modular Architecture"/>
-<img src="https://img.shields.io/badge/Offline--First-Architecture-6C63FF?style=flat-square" alt="Offline First"/>
+<img src="https://img.shields.io/badge/Clean_Architecture-6C63FF?style=flat-square" alt="Clean Architecture"/>
+<img src="https://img.shields.io/badge/Repository_Pattern-6C63FF?style=flat-square" alt="Repository Pattern"/>
+<img src="https://img.shields.io/badge/Modular_Architecture-6C63FF?style=flat-square" alt="Modular Architecture"/>
 </p>
 
 ### ⚡ Kotlin & Asynchronous Programming
 
 <p>
-<img src="https://img.shields.io/badge/Coroutines-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Coroutines"/>
-<img src="https://img.shields.io/badge/Flow-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Flow"/>
-<img src="https://img.shields.io/badge/StateFlow-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="StateFlow"/>
-<img src="https://img.shields.io/badge/Structured_Concurrency-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Structured Concurrency"/>
+<img src="https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Coroutines"/>
+<img src="https://img.shields.io/badge/Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Flow"/>
+<img src="https://img.shields.io/badge/StateFlow-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="StateFlow"/>
+<img src="https://img.shields.io/badge/Structured_Concurrency-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Structured Concurrency"/>
 </p>
 
-### 🌐 Networking & APIs
+### 🌐 Networking
 
 <p>
-<img src="https://img.shields.io/badge/Retrofit-REST-48B983?style=flat-square" alt="Retrofit"/>
-<img src="https://img.shields.io/badge/OkHttp-REST-48B983?style=flat-square" alt="OkHttp"/>
+<img src="https://img.shields.io/badge/Retrofit-48B983?style=flat-square" alt="Retrofit"/>
+<img src="https://img.shields.io/badge/OkHttp-48B983?style=flat-square" alt="OkHttp"/>
 <img src="https://img.shields.io/badge/REST_APIs-48B983?style=flat-square" alt="REST APIs"/>
 <img src="https://img.shields.io/badge/JSON-48B983?style=flat-square" alt="JSON"/>
-<img src="https://img.shields.io/badge/Authentication-48B983?style=flat-square" alt="Authentication"/>
 <img src="https://img.shields.io/badge/Interceptors-48B983?style=flat-square" alt="Interceptors"/>
+<img src="https://img.shields.io/badge/Authentication-48B983?style=flat-square" alt="Authentication"/>
 </p>
 
-### 🤖 AI & Generative AI
+### 🤖 AI / Generative AI
 
 <p>
 <img src="https://img.shields.io/badge/Google_MediaPipe_GenAI-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google MediaPipe GenAI"/>
-<img src="https://img.shields.io/badge/On--Device_LLM-4285F4?style=flat-square" alt="On-device LLM"/>
-<img src="https://img.shields.io/badge/Generative_AI-4285F4?style=flat-square" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/On--Device_LLM-4285F4?style=flat-square" alt="On-device LLM Integration"/>
 </p>
 
 ### 🔐 Security
 
 <p>
-<img src="https://img.shields.io/badge/R8%2FProGuard-Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="R8 ProGuard"/>
-<img src="https://img.shields.io/badge/Code_Obfuscation-Security-555555?style=flat-square" alt="Code Obfuscation"/>
-<img src="https://img.shields.io/badge/Root_Detection-Security-555555?style=flat-square" alt="Root Detection"/>
-<img src="https://img.shields.io/badge/Frida_Detection-Security-555555?style=flat-square" alt="Frida Detection"/>
+<img src="https://img.shields.io/badge/R8%2FProGuard-3DDC84?style=flat-square&logo=android&logoColor=white" alt="R8 ProGuard"/>
+<img src="https://img.shields.io/badge/Code_Obfuscation-555555?style=flat-square" alt="Code Obfuscation"/>
+<img src="https://img.shields.io/badge/Root_Detection-555555?style=flat-square" alt="Root Detection"/>
+<img src="https://img.shields.io/badge/Frida_Detection-555555?style=flat-square" alt="Frida Detection"/>
+<img src="https://img.shields.io/badge/Signature_Validation-555555?style=flat-square" alt="Signature Validation"/>
+<img src="https://img.shields.io/badge/Screenshot_Restrictions-555555?style=flat-square" alt="Screenshot Restrictions"/>
 </p>
 
-### 🛠️ Tools & DevOps
+### 🧪 Testing
 
 <p>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" alt="Android Studio"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle"/>
+<img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit"/>
+<img src="https://img.shields.io/badge/Mockito-78A641?style=flat-square" alt="Mockito"/>
+</p>
+
+### 🛠️ CI/CD & Tools
+
+<p>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" alt="Android Studio"/>
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
+</p>
+
+### 🔄 Methodology
+
+<p>
+<img src="https://img.shields.io/badge/Agile-6C63FF?style=flat-square" alt="Agile"/>
+<img src="https://img.shields.io/badge/Scrum-6C63FF?style=flat-square" alt="Scrum"/>
 </p>
 
 ---

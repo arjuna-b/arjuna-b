@@ -66,31 +66,19 @@ Currently, I'm focused on strengthening my expertise in **Android architecture, 
 
 ---
 
-### 📱 [PROJECT NAME]
+### 📰 InBrief — News Application
 
-**[Short project description — 1 or 2 lines]**
+A modern Android news application built with **Kotlin and Jetpack Compose**, following **MVVM + Clean Architecture** principles. The app provides news from multiple categories with an **offline-first experience** using Room Database.
 
-- 🔹 [Key feature / achievement]
-- 🔹 [Key feature / achievement]
-- 🔹 [Key feature / achievement]
+- 🔹 Browse latest headlines, search articles, and explore news by category
+- 🔹 Save favorite articles for **offline reading** with Room Database
+- 🔹 Built with a **reactive UI using Kotlin Flow and StateFlow**
+- 🔹 Implements **Retrofit/OkHttp, Hilt, Navigation Compose, and Material 3**
+- 🔹 Follows a clean separation between **Presentation, Domain, Data, and Core** layers
 
-**Tech:** `[TECH 1]` `[TECH 2]` `[TECH 3]` `[TECH 4]`
+**Tech:** `Kotlin` `Jetpack Compose` `Material 3` `MVVM` `Clean Architecture` `Coroutines` `Flow` `StateFlow` `Hilt` `Retrofit` `OkHttp` `Room` `DataStore` `Navigation Compose` `Coil`
 
-🔗 **Repository:** [PROJECT GITHUB URL]
-
----
-
-### 🛠️ [PROJECT NAME]
-
-**[Short project description — 1 or 2 lines]**
-
-- 🔹 [Key feature / achievement]
-- 🔹 [Key feature / achievement]
-- 🔹 [Key feature / achievement]
-
-**Tech:** `[TECH 1]` `[TECH 2]` `[TECH 3]` `[TECH 4]`
-
-🔗 **Repository:** [PROJECT GITHUB URL]
+🔗 **Repository:** https://github.com/arjuna-b/InBrief
 
 ---
 

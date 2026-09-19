@@ -52,8 +52,6 @@ Currently, I'm focused on strengthening my expertise in **Android architecture, 
 
 ## 🚀 Featured Projects
 
-> 💡 Replace the placeholders below with your actual project details and repository links.
-
 ### 🤖 Offline Assistant
 
 **An offline AI-powered Android chatbot built to explore **on-device LLM integration** using Google MediaPipe GenAI. The project demonstrates how Generative AI can be integrated directly into a modern Android application without relying on a remote AI API for inference.**

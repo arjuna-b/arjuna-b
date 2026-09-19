@@ -54,17 +54,17 @@ Currently, I'm focused on strengthening my expertise in **Android architecture, 
 
 > 💡 Replace the placeholders below with your actual project details and repository links.
 
-### 🤖 [PROJECT NAME — On-Device AI Android App]
+### 🤖 Offline Assistant
 
-**[Short project description — 1 or 2 lines]**
+**An offline AI-powered Android chatbot built to explore **on-device LLM integration** using Google MediaPipe GenAI. The project demonstrates how Generative AI can be integrated directly into a modern Android application without relying on a remote AI API for inference.**
 
-- 🔹 [Key feature / achievement]
-- 🔹 [Key feature / achievement]
-- 🔹 [Key feature / achievement]
+- 🔹 Runs AI inference **locally on the Android device**
+- 🔹 Integrates **Google MediaPipe GenAI** for on-device LLM capabilities
+- 🔹 Built using modern Android architecture with **Kotlin and Jetpack Compose**
 
-**Tech:** `Kotlin` `Jetpack Compose` `MediaPipe GenAI` `Coroutines` `[ADD MORE]`
+**Tech:** `Kotlin` `Jetpack Compose` `MediaPipe GenAI` `Coroutines` `MVVM` `Clean Architecture`
 
-🔗 **Repository:** [PROJECT GITHUB URL]
+🔗 **Repository:** https://github.com/arjuna-b/Offline-Assistant
 
 ---
 
